@@ -18,13 +18,16 @@ I am currently strengthening my programming fundamentals and preparing for advan
 ## 📂 My Repositories
 
 ### 🔹 Programming Projects
-Complete systems and structured projects built during my learning journey.
+Complete systems and structured projects built during my learning journey. This Repo contains Programming Projects which I made and will make in future using different Programming Languages. Further changes would be made in this repo throughout my Programming Career..........
+Visit Programming Projects → https://github.com/haroonahmad256/Programming-Projects.git
 
 ### 🔹 Programming Practice
-Problem-solving exercises and concept-based coding programs.
+Problem-solving exercises and concept-based coding programs. This repo contain short logical programming problems which helps in building basic concepts and short but logical concepts. Further changes would be made also in this repo throughout my Programming Career..........
+Visit Programming Practice → https://github.com/haroonahmad256/Programming-Practice-Short-Logical-Problem-Solutions.git
 
 ### 🔹 Learning Notes
-Organized notes from my study process.
+Organized notes from my study process. This Repo contain Notes of different programming languages which I made while learning different programming languages. Currently it conatin notes of C/C++ and python (notes of python are not complete I am currently working on it). Further changes would be made also in this repo throughout my Programming Career..........
+Visit Learning Notes → https://github.com/haroonahmad256/Notes-of-different-Programming-Languages.git
 
 ---
 
